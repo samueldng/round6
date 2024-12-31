@@ -10,6 +10,11 @@ O componente `GameBoard` implementa a lógica de um jogo inspirado no "Campo Min
 - **Redistribuição de Chances**: Quando um jogador é eliminado, suas chances restantes são redistribuídas entre os jogadores ativos.
 - **Fim de Jogo**: O jogo termina quando dois jogadores são eliminados.
 
+  # Jogo Squid Game
+
+![Imagem do jogo](https://github.com/samueldng/round6/blob/main/round6.png?raw=true)
+
+
 ## Estrutura do Código
 
 ### Diretiva `use client`
